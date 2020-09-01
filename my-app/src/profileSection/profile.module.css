@@ -1,0 +1,141 @@
+.profileSection{
+    width: 25%;
+    margin-left: 50px;
+   
+  }
+    .profile{
+      display: flex;
+     /* margin-left: 20px; */
+     margin: 10px;
+    }
+    .profile img{
+      height: 50px;
+    }
+    .profile h1{
+      margin-left: 10px;
+      /* margin-right: auto; */
+      font-weight: 600;
+      font-size: 15px;
+    }
+    .profileImage{
+        margin-left: auto;
+    }
+    .profile p{
+      text-align:center;
+      margin-left: 10px;
+      opacity: 0.6;
+    }
+    .btn1{
+        background-color: #FEB4C9;
+        
+       margin-top: 18px;
+       margin-left: 10px;
+    
+        width: 16px;
+        height: 20px;
+    }
+    .btn2{
+        background-color:#FEDF93 ;
+       
+       margin-top: 18px;
+       margin-left: 10px;
+    
+        width: 16px;
+        height: 20px;
+    }
+    .btn3{
+        background-color:#5141BD ;
+        
+       margin-top: 18px;
+       margin-left: 10px;
+    
+        width: 16px;
+        height: 20px;
+    }
+    .btn4{
+        background-color:#FFA4A4 ;
+        
+       margin-top: 18px;
+       margin-left: 10px;
+    
+        width: 16px;
+        height: 20px;
+    }
+    .profileBlue{
+        color: gray;
+        
+        box-shadow: 9px 9px 9px gray;
+        
+    }
+    @media (max-width: 600px) {
+  
+    }
+    @media (max-width: 768px) {
+      .profileSection{
+        margin-top: 69px;
+        width: 50%;
+        margin-left:18%;
+        
+      
+       
+      }
+      .profile{
+       
+       margin: 1px;
+      }
+      .profile img{
+        height: 30px;
+      }
+      .profile h1{
+        margin-left: 10px;
+        font-size: 12px;
+        /* margin-right: auto; */
+        
+        font-size: 8px;
+      }
+      .profile p{
+       margin-bottom: 32px;
+        margin-left: 5px;
+        opacity: 0.6;
+        font-size: 12px;
+      }
+      .btn1 {
+      
+        
+       margin-top: 9px;
+       margin-left: 10px;
+    
+        width: 19px;
+        height: 12px;
+    }
+    .btn2 {
+      
+        
+      margin-top: 9px;
+      margin-left: 10px;
+   
+       width: 19px;
+       height: 12px;
+   }
+   .btn3 {
+      
+        
+    margin-top: 9px;
+    margin-left: 10px;
+ 
+     width: 19px;
+     height: 12px;
+ }
+ .btn4 {     
+  margin-top: 9px;
+  margin-left: 10px;
+
+   width: 19px;
+   height: 12px;
+}
+     
+    }
+    @media (max-width: 992px) {
+
+    }
+    
